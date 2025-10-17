@@ -1,0 +1,58 @@
+{
+  "name": "Mantis Shrimp",
+  "symbol": "MTS",
+  "description": "The original Mantis Shrimp token on Solana. Bold, vibrant, and built for impact. One of nature's most powerful creatures, now on the blockchain. Follow us @1mantisshrimp and visit https://1mantisshrimp.online for updates.",
+  "image": "https://ipfs.io/ipfs/bafybeied4gzlmqbc76szsecisnsu6cvvnrrrrmqfnxyon3fmilw7uaqflm",
+  "external_url": "https://1mantisshrimp.online",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Mantis Shrimp"
+    },
+    {
+      "trait_type": "Token Address",
+      "value": "CXUBs5hbuST6dGuyCnMLBwsnTz1s5ezkGrATgpo5o2eb"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Vibrant"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Neon Green, Orange, Red, Blue"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://1mantisshrimp.online"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@1mantisshrimp"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafybeied4gzlmqbc76szsecisnsu6cvvnrrrrmqfnxyon3fmilw7uaqflm",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DivyQLtpP1iQUxsyPKZLPtYqvjGoRT3bqFnGrqYTCVKw",
+        "share": 100
+      }
+    ]
+  },
+  "twitter": "@1mantisshrimp",
+  "website": "https://1mantisshrimp.online"
+}
